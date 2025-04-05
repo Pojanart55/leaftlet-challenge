@@ -23,6 +23,9 @@ This project represents the completion of Part 1: Create the Earthquake Visualiz
 ## The Visualization
 The map should load, centered on USA view, and display earthquake markers based on the data fetched from the USGS. You can zoom in and out, pan the map, and click on the markers to see more information about each earthquake. The legend in the bottom right corner explains the color coding for earthquake depth.
 
+![image](https://github.com/user-attachments/assets/eef12d71-df63-435c-801c-de48d79a6037)
+
+
 ## Data Source
 
 The earthquake data is fetched from the USGS GeoJSON Feed: [https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson) (or a similar feed as configured in `logic.js`).  For this assignment, I select the earthequake data in the past 7 days. 
